@@ -46,5 +46,5 @@ module TradeTracker
         @conversion ||= TradeTracker::Conversion.new params, config
       end
     end
-  end
+  enddfafa
 end
